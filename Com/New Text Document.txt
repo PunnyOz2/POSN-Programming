@@ -1,0 +1,61 @@
+Hero help
+Triangle
+Blowblock
+Explore
+sequensorbool
+frequensort
+worms
+
+
+Permutation
+Bignum
+1-30
+Recursion
+	permu
+	combi
+	sport
+	space
+	water
+	hanoi
+Technique 1
+	Playbase
+	Plus
+	Fact
+	Seven
+Technique 2
+	Printer
+	Train
+Sort search
+	Oversort
+	Richsort
+	Valley king
+	Frequency sort
+Search
+	Intend
+	Velvet
+	Hack
+	Peattshare
+Technique 3
+	Infix
+	Propost
+	Paren
+	Mazu
+	Whiteeye
+	Molar mass
+	Plate
+DP
+	Skyline
+	Roam
+	Area rect
+	Anyway
+	choose
+	nugget
+	minstep
+	lift
+	fluctuate
+	ultimate
+	slip
+	table
+	maximum
+	AP value
+	Peatt board
